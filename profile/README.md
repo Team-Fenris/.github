@@ -5,6 +5,8 @@ Team Fenris consisted of five members; [Ørjan Jacobsen](https://github.com/orja
 ## Project description summary
 The project delivery is virtual machines that runs several scripts to fake internet connection for any other device connecting to it. The traffic that the device connected sends and requests will be sniffed and analysed. The analysed content can be viewed on a web interface.
 
+[See our Kanban board](https://github.com/orgs/Team-Fenris/projects/1) if interested in issues along the project period.
+
 ## Project demonstration
 https://user-images.githubusercontent.com/47573432/218265539-77c6dcac-4305-4d2a-9b92-7cae37188c76.mp4
 
